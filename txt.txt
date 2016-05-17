@@ -1,0 +1,41 @@
+
+	邮箱：xena.xu@tiandaoedu.com     123456a
+
+	rtx:Xena.xu  123456a
+
+	svn:xuhuan  123456
+
+	jira  登录名:xena
+	      密码:12345678
+	      名字：huan
+	      姓:xu
+	      email:xena@tiandaoedu.com
+
+	http://192.168.6.116:8080/xwx3/kclb.html (手机访问)
+
+	
+
+
+
+
+	 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+             <!--[if lt IE 9]>
+                <script src="js/html5shiv.js"></script>
+                <script src="js/respond.min.js"></script>
+             <![endif]-->
+
+	<!--[if IE 6]>
+               <script type="text/javascript" src="js/DD_belatedPNG.js"></script>
+                  <script type="text/javascript">
+	              DD_belatedPNG.fix('.tran');
+                      DD_belatedPNG.fix('.comm-title');
+                  </script>
+        <![endif]-->
+
+
+	//图片自适应
+
+	1.img{max-width:100%;height:auto;}
+	
+	2.放图片的父盒子
+	。parent{width:auto;}
